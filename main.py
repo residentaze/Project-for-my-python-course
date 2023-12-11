@@ -1,3 +1,6 @@
+import module as m
+
+
 from math import sin, pi
 
 
@@ -192,3 +195,5 @@ e = Ellipse(20, 30)
 e.info()
 e.radius()
 e.area()
+
+print(m.data)
